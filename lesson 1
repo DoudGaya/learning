@@ -1,10 +1,17 @@
 <html> 
   <body> 
-    <p> This my first lesson </p>
-    <script> 
+    <p> This paragraph contains embedded Javascript code 
+      <script> 
       alert("I am Javascript");   
-    </script>
+      </script>
+    </p>
 
-  </body>
+<p> This paragraph contains a source file that leads to the JS code
+
+<script src="alert.js"> </script>
+
+</p>
+    
+</body>
 
 </html>
