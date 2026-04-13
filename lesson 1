@@ -1,0 +1,10 @@
+<html> 
+  <body> 
+    <p> This my first lesson </p>
+    <script> 
+      alert("I am Javascript");   
+    </script>
+
+  </body>
+
+</html>
